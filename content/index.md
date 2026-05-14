@@ -8,8 +8,9 @@ Karpathy의 [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11
 
 **소스를 넣으면 LLM이 정리/연결/유지보수를 전부 합니다.**
 
-## Browse
+## Upload & Browse
 
+- **[+ 논문 업로드하기](https://github.com/schoyeon/llm-wiki-site/upload/main/content)** — PDF를 드래그앤드롭으로 업로드
 - [[MasterIndex|Master Index]] — 전체 페이지 목록
 - [[IngestQueue|Ingest Queue]] — 처리 대기열
 
