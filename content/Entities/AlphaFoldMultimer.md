@@ -22,11 +22,18 @@ DeepMind의 AlphaFold를 protein complex 예측으로 확장한 모델. Nanobody
 2. ipLDDT 계산
 3. 결과를 [[Rosetta]]의 dG 계산에 input으로 제공
 
+## 후속 모델: AlphaFold 3
+
+[[AlphaFold3]]가 AF-M 2.3을 대체. Evoformer → Pairformer, Structure module → [[DiffusionModel]]로 아키텍처 전환. 특히 antibody-antigen 예측 성능이 크게 개선됨.
+
 ## Cross-References
 
 - [[Swanson2025_VirtualLab|Virtual Lab 논문]]
+- [[Abramson2024_AlphaFold3|AF3 논문]]
+- [[AlphaFold3]] — 후속 모델
 - [[ESM]]
 - [[Rosetta]]
 
 ## Source Citations
 - [The Virtual Lab_s41586-025-09442-9.pdf]
+- [alphafold3_s41586-024-07487-w.pdf]
