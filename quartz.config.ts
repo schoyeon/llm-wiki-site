@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "schoyeon.github.io/llm-wiki",
+    baseUrl: "schoyeon.github.io/llm-wiki-site",
     ignorePatterns: ["private", "templates", ".obsidian", "_scripts", "_schema"],
     defaultDateType: "modified",
     theme: {
